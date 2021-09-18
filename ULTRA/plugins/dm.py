@@ -9,8 +9,8 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "υℓтяα χ"
 # Fixed by LEGDND X
 @borg.on(admin_cmd(pattern="dm ?(.*)"))
 async def _(dc):
-    ultrax = bot.uid
-    USERNAME = f"tg://user?id={ultrax}"
+    batchx = bot.uid
+    USERNAME = f"tg://user?id={batchx}"
     
     d = dc.pattern_match.group(1)
 

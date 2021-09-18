@@ -17,8 +17,8 @@ MASTER_USER = "𝕄𝔸𝕊𝕋𝔼ℝ 🇮🇳 𝕊ℍ𝔸𝔻𝕆𝕎"
 @bot.on(admin_cmd(pattern="imp(|n) (.*)", outgoing=True))
 @bot.on(sudo_cmd(pattern="imp(|n) (.*)", allow_sudo=True))
 async def _(event):
-    ultrax = bot.uid
-    USERNAME = f"tg://user?id={ultrax}"
+    batchx = bot.uid
+    USERNAME = f"tg://user?id={batchx}"
     LEGEND_USERNAME = f"tg://user?id={1667146381}"
     MADBOY_USERNAME = f"tg://user?id={1732236209}"
     MASTER_USERNAME = f"tg://user?id={1630403501}"
