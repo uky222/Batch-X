@@ -19,9 +19,9 @@ jobs:
 
         with:
 
-          find: "ULTRAX"
+          find: "ultrax"
 
-          replace: "BATCHX"
+          replace: "batchx"
 
       - name: Create Pull Request
 
