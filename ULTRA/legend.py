@@ -1,1 +1,1 @@
-from ULTRAX import NAME, MASTER, BOT
+from BATCHX import NAME, MASTER, BOT

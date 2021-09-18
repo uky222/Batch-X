@@ -3,7 +3,7 @@
 # updated by madboy482
 from telethon import events, Button, custom
 from ULTRA import bot
-from ULTRAX import xbot
+from BATCHX import xbot
 # updated by madboy482
 # updated by madboy482
 # updated by madboy482
@@ -31,7 +31,7 @@ async def inline_id_handler(event: events.InlineQuery.Event):
 # updated by madboy482
 # updated by madboy482
 async def callback_query_handler(event):
-# inline by TEAMLEGEND, TEAMULTRAX
+# inline by TEAMLEGEND, TEAMBATCHX
   await event.edit(text=f"**UʟᴛʀᴀX's Rᴇᴘᴏ, Dᴇᴘʟᴏʏ ᴀɴᴅ Gʀᴏᴜᴘ Lɪɴᴋ\n\n© @UltraXOT**",buttons=[
    # updated by madboy482
    # updated by madboy482
@@ -41,7 +41,7 @@ async def callback_query_handler(event):
                  # updated by madboy482
                  # updated by madboy482
                  # updated by madboy482
-                    Button.url(f"🌚 Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ 🌝", url="https://t.me/ULTRAXCHAT")],
+                    Button.url(f"🌚 Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ 🌝", url="https://t.me/BATCHXCHAT")],
    # updated by madboy482
    # updated by madboy482
    # updated by madboy482

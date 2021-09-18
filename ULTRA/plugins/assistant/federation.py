@@ -4,7 +4,7 @@
 """
 Fully Written by LEGENDX22
 """
-from ULTRAX import xbot
+from BATCHX import xbot
 import os, re, csv, json, time, uuid, pytz
 from datetime import datetime
 from io import BytesIO
