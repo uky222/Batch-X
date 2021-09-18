@@ -125,7 +125,7 @@ async def _(event):
         "------------------>",
         "------>;(^。^)ノ",
         "(￣ー￣) DEAD",
-        "`Targeted user killed successfully by Headshot 😈.😈.😈.😈.😈.😈.😈......`\n '#Sad_Reacts_Online'\n\n '#Mafia_UltraX'\n",
+        "`Targeted user killed successfully by Headshot 😈.😈.😈.😈.😈.😈.😈......`\n '#Sad_Reacts_Online'\n\n '#Mafia_BatchX'\n",
     ]
     for i in animation_ttl:
         await asyncio.sleep(animation_interval)

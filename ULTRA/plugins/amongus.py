@@ -1,6 +1,6 @@
 # thanks to @Skastickers for stickers....
 # Among us.....
-# credits to UltraX
+# credits to BatchX
 # madboy482
 
 
@@ -153,5 +153,5 @@ CMD_HELP.update(
 
 # thanks to @Skastickers for stickers....
 # Among us.....
-# credits to UltraX
+# credits to BatchX
 # madboy482

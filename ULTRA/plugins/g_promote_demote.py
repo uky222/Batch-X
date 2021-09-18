@@ -1,11 +1,11 @@
-# Copyright (C) 2021 By Team UltraX 
+# Copyright (C) 2021 By Team BatchX 
 
 # ~ LegendX
 # ~ ProBoyX
 # ~ MadBoy
 # ~ Alain
 
-# Global Promote and Demote Plugin by Team UltraX for UltraX UserBot
+# Global Promote and Demote Plugin by Team BatchX for BatchX UserBot
 # credit bahut ho gya, yaar as bahut mehnat se bna hai, kang mat krna....
 
 # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
@@ -230,7 +230,7 @@ async def get_full_user(event):
         try:
             user_obj = await event.client.get_entity(user)
         except Exception as err:
-            return await event.edit("`Eʀʀᴏʀ Pʟᴇᴀsᴇ Rᴇᴘᴏʀᴛ Iɴ` **@UltraXChat**`.`", str(err))   
+            return await event.edit("`Eʀʀᴏʀ Pʟᴇᴀsᴇ Rᴇᴘᴏʀᴛ Iɴ` **@BatchXChat**`.`", str(err))   
 # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
 # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
 # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
@@ -463,7 +463,7 @@ async def gben(userbot):
 
 # jana lavde back click kar
 
-# Copyright (C) 2021 By Team UltraX 
+# Copyright (C) 2021 By Team BatchX 
 
 # ~ LegendX
 # ~ ProBoyX
@@ -471,7 +471,7 @@ async def gben(userbot):
 # ~ MadBoy
 # ~ RoseLoverX
 
-# Global Promote and Demote Plugin by Team UltraX for UltraX UserBot
+# Global Promote and Demote Plugin by Team BatchX for BatchX UserBot
 # Mobile me back option he uspe click karde madhachod kang kiya to dekh
 # Mobile me back option he uspe click karde madhachod kang kiya to dekh
 # Mobile me back option he uspe click karde madhachod kang kiya to dekh
@@ -631,7 +631,7 @@ async def gben(userbot):
         f"`Gʟᴏʙʙᴀʟʏ Dᴇᴍᴏᴛᴇᴅ` **[{user.first_name}](tg://user?id={user.id})** `Iɴ` **{i}** `Cʜᴀᴛs.`"
     )
 
-# Copyright (C) 2021 By Team UltraX 
+# Copyright (C) 2021 By Team BatchX 
 
 # ~ LegendX
 # ~ ProBoyX
@@ -641,7 +641,7 @@ async def gben(userbot):
 
 # back click kar madharchod 
 
-# Global Promote and Demote Plugin by Team UltraX for UltraX UserBot
+# Global Promote and Demote Plugin by Team BatchX for BatchX UserBot
 # ~ LegendX
 # ~ ProBoyX
 # ~ Alain

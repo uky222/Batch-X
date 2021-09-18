@@ -37,6 +37,6 @@ async def file(event):
 CMD_HELP.update
 (
   {
-    "button": ".button <button name>|<link>\n`.button UltraX|https://t.me/BATCHXOT`\nmake sure your name and link no have Useless space"
+    "button": ".button <button name>|<link>\n`.button BatchX|https://t.me/BATCHXOT`\nmake sure your name and link no have Useless space"
   }
 )

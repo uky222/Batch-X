@@ -1,4 +1,4 @@
-"""night Plugin for UltraX_userbot
+"""night Plugin for BatchX_userbot
 Syntax: .study REASON"""
 
 # ported from madboy482
@@ -46,7 +46,7 @@ async def set_not_night(event):
                 event.chat_id,
                 "Please set `PLUGIN_CHANNEL` "
                 + "for the proper functioning of study command \n\n"
-                + "Ask your doubts, in @UltraXchaT \n\n `{}`".format(str(e)),
+                + "Ask your doubts, in @BatchXchaT \n\n `{}`".format(str(e)),
                 reply_to=event.message.id,
                 silent=True,
             )

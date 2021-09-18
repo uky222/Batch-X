@@ -1,5 +1,5 @@
 ﻿# madboy482
-# designed for UltraX
+# designed for BatchX
 
 import os
 import re
@@ -77,7 +77,7 @@ CMD_HELP.update(
     \n\n**Button post helper**\
     \n•  **Syntax : **`.cbutton`\
     \n•  **Function :** __For working of this, you need your bot({BOT_USERNAME}) in the group/channel where you are using the command and Buttons must be in the format as [Name on button]<buttonurl:link you want to open> and markdown is Default to html__\
-    \n•  **Example :** `.cbutton Test [Google]<buttonurl:https://www.google.com> [UltraX Chat]<buttonurl:https://t.me/BATCHXCHAT:same> [UltraX]<buttonurl:https://t.me/UltraXOT>`\
+    \n•  **Example :** `.cbutton Test [Google]<buttonurl:https://www.google.com> [BatchX Chat]<buttonurl:https://t.me/BATCHXCHAT:same> [BatchX]<buttonurl:https://t.me/BatchXOT>`\
     "
     }
 )

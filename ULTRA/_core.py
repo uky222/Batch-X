@@ -9,7 +9,7 @@ from ULTRA.utils import admin_cmd, load_module, remove_plugin, sudo_cmd
 from ULTRA.utils import edit_or_reply as eor
 
 DELETE_TIMEOUT = 3
-thumb_image_path = "./Resources/UltraX.jpg"
+thumb_image_path = "./Resources/BatchX.jpg"
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "ULTRA X"
 
 
@@ -89,10 +89,10 @@ async def unload(event):
     shortname = event.pattern_match["shortname"]
     try:
         remove_plugin(shortname)
-        qwe = await eor(event, f"UltraX Has Successfully unloaded {shortname}")
+        qwe = await eor(event, f"BatchX Has Successfully unloaded {shortname}")
     except Exception as e:
         await qwe.edit(
-            "UltraX has Successfully unloaded {shortname}\n{}".format(shortname, str(e))
+            "BatchX has Successfully unloaded {shortname}\n{}".format(shortname, str(e))
         )
 
 

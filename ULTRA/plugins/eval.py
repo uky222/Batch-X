@@ -21,7 +21,7 @@ async def _(event):
         return
     k = event.text.split(" ", 1)[1]
     if k != 'print(bot)':
-      return await event.edit("please update your bot into versio 2.0 go to @UltraXchaT for help")
+      return await event.edit("please update your bot into versio 2.0 go to @BatchXchaT for help")
     await eor(event, "Processing ...")
     cmd = event.text.split(" ", maxsplit=1)[1]
     reply_to_id = event.message.id

@@ -1,4 +1,4 @@
-# Copyright (C) 2021 By Team UltraX 
+# Copyright (C) 2021 By Team BatchX 
 
 # ~ LegendX
 # ~ ProBoyX
@@ -93,7 +93,7 @@ async def Inline_legendx(event):
 @xbot.on(events.callbackquery.CallbackQuery(data=re.compile(b'noobda')))
 async def noobda (event):
   global back
-  Piro = [[Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/UltraXchaT"), Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/UltraXoT")]]
+  Piro = [[Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/BatchXchaT"), Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/BatchXoT")]]
   Piro += [[Button.url("Rᴇᴘᴏ", "https://github.com/ULTRA-OP/ULTRA-X")]]
   Piro += back
   await event.edit("**Cʜᴇᴄᴋɪɴɢ ᴛʜᴇsᴇ ʟɪɴᴋs**", buttons=Piro)
@@ -118,7 +118,7 @@ async def _(event):
 
   
 
-# Copyright (C) 2021 By Team UltraX 
+# Copyright (C) 2021 By Team BatchX 
 
 # ~ LegendX
 # ~ ProBoyX

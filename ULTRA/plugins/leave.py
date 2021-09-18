@@ -2,7 +2,7 @@
 # made for ULTRA-X
 # kang mat kr lawde
 
-# UltraX
+# BatchX
 
 from telethon.tl.functions.channels import LeaveChannelRequest as leave
 from ..utils import admin_cmd
@@ -32,7 +32,7 @@ CMD_HELP.update
   }
 )
 
-# UltraX
+# BatchX
 
 # kang mat kr lawde
 # made for ULTRA-X

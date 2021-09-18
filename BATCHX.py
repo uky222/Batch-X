@@ -75,7 +75,7 @@ def wt(obj, file):
     return False
 
 MASTER = NAME
-GROUP = "[SUPPORT GROUP](https://t.me/UltraXChat)"
+GROUP = "[SUPPORT GROUP](https://t.me/BatchXChat)"
 if __name__=="__main__":
   bot.start()
   bot.run_until_disconnected()

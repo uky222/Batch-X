@@ -53,7 +53,7 @@ async def amireallyalive(awake):
      ALIVE_MESSAGE += f"✧ 𝚄𝙻𝚃𝚁𝙰 𝚇 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : `{VERSION}`\n\n"
 #     ALIVE_MESSAGE += f"✧ 𝚄𝙿𝚃𝙸𝙼𝙴 : {uptm}\n\n"
      ALIVE_MESSAGE += f"✧ 𝙼𝚈 𝙱𝙾𝚂𝚂 : [{DEFAULTUSER}](tg://user?id={tag})\n\n"
-     ALIVE_MESSAGE += "✧ 𝙶𝚁𝙾𝚄𝙿 : [SUPPORT](https://t.me/UltraXOT)\n\n"
+     ALIVE_MESSAGE += "✧ 𝙶𝚁𝙾𝚄𝙿 : [SUPPORT](https://t.me/BatchXOT)\n\n"
      ALIVE_MESSAGE += f"✧ [𝙳𝙴𝙿𝙻𝙾𝚈](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FULTRA-OP%2FHEROKU&template=https%3A%2F%2Fgithub.com%2FULTRA-OP%2FHEROKU) 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽 𝙾𝙿 [{BOT}](http://github.com/ULTRA-OP/ULTRA-X) ✧\n"   
      await awake.delete() 
      await borg.send_file(awake.chat_id, PHOTO,caption=ALIVE_MESSAGE)

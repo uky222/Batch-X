@@ -14,7 +14,7 @@ except:
   import securex
 from telethon.sessions import StringSession
 from telethon import TelegramClient
-class UltraX (TelegramClient):
+class BatchX (TelegramClient):
   def __init__(self, string, api_id, api_hash):
     super().__init__(StringSession (string), api_id, api_hash)
     self.id = None
@@ -45,7 +45,7 @@ StartTime = time.time()
 os.system("pip install --upgrade pip")
 if Var.STRING_SESSION:
     session_name = str(Var.STRING_SESSION)
-    bot = UltraX(session_name, Var.APP_ID, Var.API_HASH)
+    bot = BatchX(session_name, Var.APP_ID, Var.API_HASH)
 else:
     session_name = "startup"
     bot = TelegramClient(session_name, Var.APP_ID, Var.API_HASH)

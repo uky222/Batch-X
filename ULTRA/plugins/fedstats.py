@@ -1,5 +1,5 @@
 import asyncio
-# made by LEGENDBOT & UltraX
+# made by LEGENDBOT & BatchX
 from telethon.errors.rpcerrorlist import YouBlockedUserError
 from ULTRA.legend import NAME
 from ULTRA import CMD_HELP

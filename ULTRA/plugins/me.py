@@ -1,4 +1,4 @@
-# © By Team Legend, Team UltraX, Alain
+# © By Team Legend, Team BatchX, Alain
 import re, os
 from telethon import events, Button, custom
 import os,re

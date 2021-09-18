@@ -1,6 +1,6 @@
 # made by madboy
 # kang mat kr lawde
-# UltraX
+# BatchX
 
 from telethon import events, Button, custom
 from ULTRA import bot
@@ -11,7 +11,7 @@ BOT_USERNAME = Var.TG_BOT_USER_NAME_BF_HER
 
 # made by madboy
 # kang mat kr lawde
-# UltraX
+# BatchX
 
 import os,re
 from telethon.tl.custom import Button 
@@ -30,7 +30,7 @@ async def callback_query_handler(event):
                   )
 # made by madboy
 # kang mat kr lawde
-# UltraX
+# BatchX
 
 CMD_HELP.update
 (
@@ -44,4 +44,4 @@ CMD_HELP.update
 )
 # made by madboy
 # kang mat kr lawde
-# UltraX
+# BatchX

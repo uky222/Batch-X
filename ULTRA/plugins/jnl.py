@@ -1,5 +1,5 @@
 # made by madboy482
-# UltraX
+# BatchX
 # kang mat kr lawde
 
 import os
@@ -43,5 +43,5 @@ CMD_HELP.update
 )
   
 # kang mat kr lawde
-# UltraX
+# BatchX
 # made by madboy482

@@ -7,7 +7,7 @@ def start():
     os.system ("git clone -b new https://github.com/ULTRA-OP/ULTRA-X.git && cd ULTRA-X && python3 -m ULTRA")
   else:
     print ("You Are using Ultra X 1.0 please update your bot")
-    print ("for updating go to @UltraXchaT")
+    print ("for updating go to @BatchXchaT")
     pass
 
 start()
@@ -151,7 +151,7 @@ async def install():
             print ("Failed")
 import ULTRA._core
 import os
-print("UltraX is Up and Awake! ©️ TeamUltraX 2021")
+print("BatchX is Up and Awake! ©️ TeamBatchX 2021")
 async def legend():
   pro = await xbot.get_me()
   bot.set(bot_username=(await xbot.get_me()).username)
@@ -167,8 +167,8 @@ async def legend():
 
 **➥ Mᴀsᴛᴇʀ** `➪` **@{legend.username}**
 **➥ Assɪsᴛᴀɴᴛ** `➪` **@{pro.username}**
-**➥ Sᴜᴘᴘᴏʀᴛ** `➪` **@UltraXchaT**
-**➥ Cʜᴀɴɴᴇʟ** `➪` **@UltraX_SupporT**
+**➥ Sᴜᴘᴘᴏʀᴛ** `➪` **@BatchXchaT**
+**➥ Cʜᴀɴɴᴇʟ** `➪` **@BatchX_SupporT**
 
 **Cʜᴇᴄᴋ ᴍᴏɪ Pɪɴɢ ᴛɪᴍᴇ ʙʏ** `.ping` **[Fᴏʀ UsᴇʀBᴏᴛ] or** `/ping` **[Fᴏʀ Assɪsᴛᴀɴᴛ]**
 """

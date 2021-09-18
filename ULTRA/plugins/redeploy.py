@@ -32,5 +32,5 @@ async def restart(event):
     os.execl(sys.executable, sys.executable, *sys.argv)
     quit () # MADBOY482
   else:
-    mad = "Eeh, go and get your own UltraX you noob kiddo"
+    mad = "Eeh, go and get your own BatchX you noob kiddo"
     await event.answer(mad, alert=True)

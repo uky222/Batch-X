@@ -27,7 +27,7 @@ async def _(event):
         await event.edit(input_str)
         animation_chars = [
        
-            "**Welcome To UltraX Repo Game**",
+            "**Welcome To BatchX Repo Game**",
             "**Click The Gift As Fast As Possible**",
             "**Game Starts in 3...**",
             "**Game Starts in 2..**",

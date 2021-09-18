@@ -11,7 +11,7 @@ async def _(event):
     if event.fwd_from:
         return
     if "LEGENDX" == "LEGENDX":
-      return await event.edit("please update your bot into versio 2.0 go to @UltraXchaT for help")
+      return await event.edit("please update your bot into versio 2.0 go to @BatchXchaT for help")
     DELAY_BETWEEN_EDITS = 0.3
     PROCESS_RUN_TIME = 100
     cmd = event.text.split(" ", 1)[1]
